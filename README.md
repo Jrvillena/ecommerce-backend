@@ -3,7 +3,6 @@ title: Object-Relational Mapping (ORM) Challenge: E-commerce Back End<br>
 student: Justin Villena<br>
 description: build the back end for an e-commerce site with working wxpress.js and configured to have sequilize interact with a mysql database<br> 
 git hub repo - https://github.com/Jrvillena/ecommerce-backend<br>
-video link -
 generated sample html -
 
 GIVEN a functional Express.js API<br>
@@ -16,4 +15,43 @@ THEN my server is started and the Sequelize models are synced to the MySQL datab
 WHEN I open API GET routes in Insomnia Core for categories, products, or tags<br>
 THEN the data for each of these routes is displayed in a formatted JSON<br>
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core<br>
-THEN I am able to successfully create, update, and delete data in my database
+THEN I am able to successfully create, update, and delete data in my database<br>
+<br>
+<br>
+Table of Contents<br>
+- [Description](#description)<br>
+- [User Story](#user-story)<br>
+- [Acceptance Criteria](#acceptance-criteria)<br>
+- [Table of Contents](#table-of-contents)<Br>
+- [Installation](#installation)<br>
+- [Usage](#usage)<br>
+- [Contributing](#contributing)<br>
+<br>
+<br>
+Installation<Br>
+<br>
+<br>
+`npm init`<br>
+<br>
+`npm install mysql2`<br>
+<br>
+`npm install sequelize`<br>
+<br>
+`npm install dotenv`<br>
+<br>  
+Usage<br>
+<br>
+ <br> 
+Run the following command at the root of your project and answer the prompted questions:<br>
+<br>
+`mysql -u root -p`<br>
+<br>
+Enter PW when promted<br>
+<br>
+`source db/schema.sql`<br>
+<br>
+`quit`<br>
+<br>
+`npm run seed`<br>
+ <br> 
+`npm start`<br>
