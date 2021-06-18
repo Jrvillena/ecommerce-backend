@@ -3,8 +3,21 @@ title: Object-Relational Mapping (ORM) Challenge: E-commerce Back End<br>
 student: Justin Villena<br>
 description: build the back end for an e-commerce site with working wxpress.js and configured to have sequilize interact with a mysql database<br> 
 git hub repo - https://github.com/Jrvillena/ecommerce-backend<br>
-generated sample html -
-
+generated sample gifs -<br>
+<br>
+<BR>
+GET ROUTES<BR>
+![](get-routes.gif)<br>
+<br>
+<BR>
+GET ROUTE ID'S<BR>
+![](get-route-ids.gif)<BR>
+<br>
+<br>
+POST, PUT, AND DELETE FUNCTIONS<BR>
+![](post-put-delete-routes.gif)
+<br>
+<br>
 GIVEN a functional Express.js API<br>
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file<br>
 THEN I am able to connect to a database using Sequelize<br>
