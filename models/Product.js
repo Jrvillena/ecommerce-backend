@@ -30,7 +30,6 @@ Product.init(
       stock: {
         type: DataTypes.INTEGER,
         allowNull: flase,
-        defaultValue: 10,
         validate: {
           isNumeric: true
         }
