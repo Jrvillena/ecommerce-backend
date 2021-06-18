@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "test push<br> title: Object-Relational Mapping (ORM) Challenge: E-commerce Back End<br> student: Justin Villena<br> description: build the back end for an e-commerce site with working wxpress.js and configured to have sequilize interact with a mysql database<br>  git hub repo - https://github.com/Jrvillena/ecommerce-backend<br> video link - generated sample html -",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
