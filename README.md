@@ -7,15 +7,15 @@ generated sample gifs -<br>
 <br>
 <BR>
 GET ROUTES<BR>
-![](get-routes.gif)<br>
+![](gifs/get-routes.gif)<br>
 <br>
 <BR>
 GET ROUTE ID'S<BR>
-![](get-route-ids.gif)<BR>
+![](gifs/get-route-ids.gif)<BR>
 <br>
 <br>
 POST, PUT, AND DELETE FUNCTIONS<BR>
-![](post-put-delete-routes.gif)
+![](gifs/post-put-delete-routes.gif)
 <br>
 <br>
 GIVEN a functional Express.js API<br>
